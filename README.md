@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <br>
 
 <div align="center">
@@ -21,14 +19,14 @@
 
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <div align="center">
 
 ## :construction: Repo Recommend :construction:
----
+
 </div>
 
 <a href="https://github.com/chaaaning/bp_road_crack_detection"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_road_crack_detection&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
@@ -44,8 +42,6 @@
 ## :factory: STACK :factory:
 
 </div>
-
----
 
 
 
