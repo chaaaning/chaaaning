@@ -6,7 +6,7 @@
 
 <div align="center">
 
-## :ticket: GITHUB OUTLINE :ticket:
+## :ticket: ING.. CODING.. :ticket:
 
 </div>
 
@@ -19,7 +19,9 @@
 
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunjch21)](https://solved.ac/yunjch21)
+
+<br><br>
 
 
 
@@ -27,13 +29,16 @@
 
 ## :construction: Repo Recommend :construction:
 
-</div>
+
 
 <a href="https://github.com/chaaaning/bp_road_crack_detection"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_road_crack_detection&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 
 
 <a href="https://github.com/chaaaning/bp_store_cluster"><img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_store_cluster&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 
+</div>
+
+<br><br><br><br>
 
 <div align="center">
 
