@@ -14,12 +14,14 @@
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chaaaning&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaaning">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaaaning&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaaaning">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunjch21)](https://solved.ac/yunjch21)
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yunjch21)](https://solved.ac/yunjch21)
+
 
 <br><br>
 
@@ -30,11 +32,12 @@
 ## :construction: Repo Recommend :construction:
 
 
+<a href="https://github.com/chaaaning/Crack-Segmentation-tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=Crack-Segmentation-tensorflow&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 
-<a href="https://github.com/chaaaning/bp_road_crack_detection"><img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_road_crack_detection&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+<a href="https://github.com/chaaaning/bp_road_crack_detection"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_road_crack_detection&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 
 
-<a href="https://github.com/chaaaning/bp_store_cluster"><img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_store_cluster&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+<a href="https://github.com/chaaaning/bp_store_cluster"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_store_cluster&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
 
 </div>
 
@@ -62,7 +65,10 @@
 <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scipy-8CAAE6?style=flat-square&logo=Scipy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=Qgis&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
