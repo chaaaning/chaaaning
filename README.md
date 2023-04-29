@@ -50,9 +50,6 @@
 - (2022.11 ~ 2022.12) [2022 과학기술 공공 AI데이터 분석활용 경진대회 참가 및 장려상 수상 - page](https://aida.kisti.re.kr/model/d4307cde-0a36-4c4b-85ab-a9c4ca5de512) ([repo](https://github.com/chaaaning/Crack-Segmentation-tensorflow))
 
 
-
-
-
 </div>
 
 ## :ticket: About Coding :ticket:
@@ -68,21 +65,9 @@
 
 </div>
 
-<br><br>
-
-## :construction: Project Repo :construction:
-
-<div align="center">
-
-<a href="https://github.com/chaaaning/Crack-Segmentation-tensorflow"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=Crack-Segmentation-tensorflow&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-
-<a href="https://github.com/chaaaning/bp_road_crack_detection"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_road_crack_detection&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-
-<a href="https://github.com/chaaaning/bp_store_cluster"><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=chaaaning&repo=bp_store_cluster&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-
 </div>
 
-<br><br><br><br>
+<br><br>
 
 ## :factory: STACKS :factory:
 
