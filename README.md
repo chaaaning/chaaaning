@@ -49,6 +49,11 @@
 - (2022.06 ~ 2022.08) [제 7회 롯데멤버스 빅데이터 경진대회 참가 - repo](https://github.com/chaaaning/Lpoint_competition)
 - (2022.11 ~ 2022.12) [2022 과학기술 공공 AI데이터 분석활용 경진대회 참가 및 장려상 수상 - page](https://aida.kisti.re.kr/model/d4307cde-0a36-4c4b-85ab-a9c4ca5de512) ([repo](https://github.com/chaaaning/Crack-Segmentation-tensorflow))
 
+<br>
+
+**2023**
+
+- (2023.02 ~ 2023.03) 같이 가치 파이썬 문학 코딩 강의
 
 </div>
 
